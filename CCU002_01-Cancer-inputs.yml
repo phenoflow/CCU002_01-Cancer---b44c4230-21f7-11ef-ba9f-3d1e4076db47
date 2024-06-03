@@ -1,0 +1,1308 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-cancer-neopl---secondary.py
+inputModule3:
+  class: File
+  path: python/testicular-ccu002_01-cancer---secondary.py
+inputModule4:
+  class: File
+  path: python/mpancreatic-ccu002_01-cancer---secondary.py
+inputModule5:
+  class: File
+  path: python/vaginal-ccu002_01-cancer---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-cancer-mrespiratory---secondary.py
+inputModule7:
+  class: File
+  path: python/ureteric-ccu002_01-cancer---secondary.py
+inputModule8:
+  class: File
+  path: python/mintraductal-ccu002_01-cancer---secondary.py
+inputModule9:
+  class: File
+  path: python/carotid-ccu002_01-cancer---secondary.py
+inputModule10:
+  class: File
+  path: python/retroperitoneal-ccu002_01-cancer---secondary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-cancer-mesorectum---secondary.py
+inputModule12:
+  class: File
+  path: python/ccu002_01-cancer-limbunspfd---secondary.py
+inputModule13:
+  class: File
+  path: python/paratracheal-ccu002_01-cancer---secondary.py
+inputModule14:
+  class: File
+  path: python/mrenal-ccu002_01-cancer---secondary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-cancer-mcystosarcoma---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu002_01-cancer-mhepatobiliary---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu002_01-cancer-supratrochlear---secondary.py
+inputModule18:
+  class: File
+  path: python/mthyroid-ccu002_01-cancer---secondary.py
+inputModule19:
+  class: File
+  path: python/ccu002_01-cancer-midbrain---secondary.py
+inputModule20:
+  class: File
+  path: python/haematopoietic-ccu002_01-cancer---secondary.py
+inputModule21:
+  class: File
+  path: python/ccu002_01-cancer-msoft---secondary.py
+inputModule22:
+  class: File
+  path: python/ccu002_01-cancer-mliposarcoma---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-cancer-mskin---secondary.py
+inputModule24:
+  class: File
+  path: python/ccu002_01-cancer-articulr---secondary.py
+inputModule25:
+  class: File
+  path: python/madrenal-ccu002_01-cancer---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-cancer-waldeyer---secondary.py
+inputModule27:
+  class: File
+  path: python/ccu002_01-cancer-mmesothelioma---secondary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-cancer-lowerouter---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-cancer-mcomedocarcinoma---secondary.py
+inputModule30:
+  class: File
+  path: python/msebaceous-ccu002_01-cancer---secondary.py
+inputModule31:
+  class: File
+  path: python/mlymphoid-ccu002_01-cancer---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-cancer-poisoning---secondary.py
+inputModule33:
+  class: File
+  path: python/ccu002_01-cancer-letter---secondary.py
+inputModule34:
+  class: File
+  path: python/centroblasticcentrocytic-ccu002_01-cancer---secondary.py
+inputModule35:
+  class: File
+  path: python/retrocaecal-ccu002_01-cancer---secondary.py
+inputModule36:
+  class: File
+  path: python/ccu002_01-cancer-radiochemotherapy---secondary.py
+inputModule37:
+  class: File
+  path: python/mhepatocellular-ccu002_01-cancer---secondary.py
+inputModule38:
+  class: File
+  path: python/ccu002_01-cancer-mmalignant---secondary.py
+inputModule39:
+  class: File
+  path: python/ccu002_01-cancer-effusion---secondary.py
+inputModule40:
+  class: File
+  path: python/adenocarcinomatous-ccu002_01-cancer---secondary.py
+inputModule41:
+  class: File
+  path: python/ccu002_01-cancer-myosarcoma---secondary.py
+inputModule42:
+  class: File
+  path: python/ccu002_01-cancer-ovary---secondary.py
+inputModule43:
+  class: File
+  path: python/aleukemic-ccu002_01-cancer---secondary.py
+inputModule44:
+  class: File
+  path: python/lymphomatoid-ccu002_01-cancer---secondary.py
+inputModule45:
+  class: File
+  path: python/orbital-ccu002_01-cancer---secondary.py
+inputModule46:
+  class: File
+  path: python/ccu002_01-cancer-second---secondary.py
+inputModule47:
+  class: File
+  path: python/costovertebral-ccu002_01-cancer---secondary.py
+inputModule48:
+  class: File
+  path: python/ccu002_01-cancer-kidney---secondary.py
+inputModule49:
+  class: File
+  path: python/peripheral-ccu002_01-cancer---secondary.py
+inputModule50:
+  class: File
+  path: python/myelodysplastic-ccu002_01-cancer---secondary.py
+inputModule51:
+  class: File
+  path: python/ccu002_01-cancer-blast---secondary.py
+inputModule52:
+  class: File
+  path: python/frontal-ccu002_01-cancer---secondary.py
+inputModule53:
+  class: File
+  path: python/ccu002_01-cancer-chemotherapy---secondary.py
+inputModule54:
+  class: File
+  path: python/ccu002_01-cancer-stage---secondary.py
+inputModule55:
+  class: File
+  path: python/extramedullary-ccu002_01-cancer---secondary.py
+inputModule56:
+  class: File
+  path: python/ccu002_01-cancer-infusion---secondary.py
+inputModule57:
+  class: File
+  path: python/ccu002_01-cancer-origin---secondary.py
+inputModule58:
+  class: File
+  path: python/meosinophilic-ccu002_01-cancer---secondary.py
+inputModule59:
+  class: File
+  path: python/pillar-ccu002_01-cancer---secondary.py
+inputModule60:
+  class: File
+  path: python/ccu002_01-cancer-myometrium---secondary.py
+inputModule61:
+  class: File
+  path: python/ccu002_01-cancer-vessel---secondary.py
+inputModule62:
+  class: File
+  path: python/mprolymphocytic-ccu002_01-cancer---secondary.py
+inputModule63:
+  class: File
+  path: python/ccu002_01-cancer-merythroleukaemia---secondary.py
+inputModule64:
+  class: File
+  path: python/spinal-ccu002_01-cancer---secondary.py
+inputModule65:
+  class: File
+  path: python/ccu002_01-cancer-fibrosarcoma---secondary.py
+inputModule66:
+  class: File
+  path: python/recurrent-ccu002_01-cancer---secondary.py
+inputModule67:
+  class: File
+  path: python/ccu002_01-cancer-osteoporosis---secondary.py
+inputModule68:
+  class: File
+  path: python/myelogenous-ccu002_01-cancer---secondary.py
+inputModule69:
+  class: File
+  path: python/ccu002_01-cancer-mteratoma---secondary.py
+inputModule70:
+  class: File
+  path: python/ccu002_01-cancer-alveolus---secondary.py
+inputModule71:
+  class: File
+  path: python/ccu002_01-cancer-histiocytosis---secondary.py
+inputModule72:
+  class: File
+  path: python/ccu002_01-cancer-duodenum---secondary.py
+inputModule73:
+  class: File
+  path: python/ccu002_01-cancer-flexure---secondary.py
+inputModule74:
+  class: File
+  path: python/madenoid-ccu002_01-cancer---secondary.py
+inputModule75:
+  class: File
+  path: python/ccu002_01-cancer-cornu---secondary.py
+inputModule76:
+  class: File
+  path: python/ccu002_01-cancer-mmycosis---secondary.py
+inputModule77:
+  class: File
+  path: python/ccu002_01-cancer-angioendotheliomatosis---secondary.py
+inputModule78:
+  class: File
+  path: python/ccu002_01-cancer-nasal---secondary.py
+inputModule79:
+  class: File
+  path: python/ccu002_01-cancer-finger---secondary.py
+inputModule80:
+  class: File
+  path: python/endocervical-ccu002_01-cancer---secondary.py
+inputModule81:
+  class: File
+  path: python/carcinoid-ccu002_01-cancer---secondary.py
+inputModule82:
+  class: File
+  path: python/ccu002_01-cancer-prepylorus---secondary.py
+inputModule83:
+  class: File
+  path: python/ccu002_01-cancer-upperouter---secondary.py
+inputModule84:
+  class: File
+  path: python/mmucinous-ccu002_01-cancer---secondary.py
+inputModule85:
+  class: File
+  path: python/ccu002_01-cancer-floor---secondary.py
+inputModule86:
+  class: File
+  path: python/endometrial-ccu002_01-cancer---secondary.py
+inputModule87:
+  class: File
+  path: python/mameloblastic-ccu002_01-cancer---secondary.py
+inputModule88:
+  class: File
+  path: python/ccu002_01-cancer-noninfiltrating---secondary.py
+inputModule89:
+  class: File
+  path: python/ccu002_01-cancer-cystadenocarcinoma---secondary.py
+inputModule90:
+  class: File
+  path: python/ccu002_01-cancer-cycle---secondary.py
+inputModule91:
+  class: File
+  path: python/ccu002_01-cancer-thymoma---secondary.py
+inputModule92:
+  class: File
+  path: python/ccu002_01-cancer-buttock---secondary.py
+inputModule93:
+  class: File
+  path: python/heavy-ccu002_01-cancer---secondary.py
+inputModule94:
+  class: File
+  path: python/ccu002_01-cancer-paragranuloma---secondary.py
+inputModule95:
+  class: File
+  path: python/mediastinal-ccu002_01-cancer---secondary.py
+inputModule96:
+  class: File
+  path: python/ccu002_01-cancer-oligodendroglioma---secondary.py
+inputModule97:
+  class: File
+  path: python/ccu002_01-cancer-angiosarcoma---secondary.py
+inputModule98:
+  class: File
+  path: python/ccu002_01-cancer-epithelium---secondary.py
+inputModule99:
+  class: File
+  path: python/nasolacrimal-ccu002_01-cancer---secondary.py
+inputModule100:
+  class: File
+  path: python/mesothelial-ccu002_01-cancer---secondary.py
+inputModule101:
+  class: File
+  path: python/ccu002_01-cancer-pharynx---secondary.py
+inputModule102:
+  class: File
+  path: python/mmedullary-ccu002_01-cancer---secondary.py
+inputModule103:
+  class: File
+  path: python/ccu002_01-cancer-regiman---secondary.py
+inputModule104:
+  class: File
+  path: python/ccu002_01-cancer-oesophagu---secondary.py
+inputModule105:
+  class: File
+  path: python/tonsillar-ccu002_01-cancer---secondary.py
+inputModule106:
+  class: File
+  path: python/ccu002_01-cancer-forehead---secondary.py
+inputModule107:
+  class: File
+  path: python/mpituitary-ccu002_01-cancer---secondary.py
+inputModule108:
+  class: File
+  path: python/genitourinary-ccu002_01-cancer---secondary.py
+inputModule109:
+  class: File
+  path: python/ccu002_01-cancer-tibia---secondary.py
+inputModule110:
+  class: File
+  path: python/ccu002_01-cancer-history---secondary.py
+inputModule111:
+  class: File
+  path: python/ccu002_01-cancer-myeloma---secondary.py
+inputModule112:
+  class: File
+  path: python/ccu002_01-cancer-mchoriocarcinoma---secondary.py
+inputModule113:
+  class: File
+  path: python/ccu002_01-cancer-exocervix---secondary.py
+inputModule114:
+  class: File
+  path: python/ccu002_01-cancer-twothird---secondary.py
+inputModule115:
+  class: File
+  path: python/ccu002_01-cancer-gallbladder---secondary.py
+inputModule116:
+  class: File
+  path: python/ccu002_01-cancer---secondary.py
+inputModule117:
+  class: File
+  path: python/ccu002_01-cancer-gorlin---secondary.py
+inputModule118:
+  class: File
+  path: python/ccu002_01-cancer-ganglia---secondary.py
+inputModule119:
+  class: File
+  path: python/ccu002_01-cancer-lymphosarcoma---secondary.py
+inputModule120:
+  class: File
+  path: python/ccu002_01-cancer-ringed---secondary.py
+inputModule121:
+  class: File
+  path: python/unknown-ccu002_01-cancer---secondary.py
+inputModule122:
+  class: File
+  path: python/ccu002_01-cancer-islet---secondary.py
+inputModule123:
+  class: File
+  path: python/ccu002_01-cancer-forearm---secondary.py
+inputModule124:
+  class: File
+  path: python/ccu002_01-cancer-immunoglobulin---secondary.py
+inputModule125:
+  class: File
+  path: python/ccu002_01-cancer-jejunum---secondary.py
+inputModule126:
+  class: File
+  path: python/ccu002_01-cancer-mcomplex---secondary.py
+inputModule127:
+  class: File
+  path: python/pectoral-ccu002_01-cancer---secondary.py
+inputModule128:
+  class: File
+  path: python/ccu002_01-cancer-mucosaassociated---secondary.py
+inputModule129:
+  class: File
+  path: python/genital-ccu002_01-cancer---secondary.py
+inputModule130:
+  class: File
+  path: python/ccu002_01-cancer-ischium---secondary.py
+inputModule131:
+  class: File
+  path: python/ccu002_01-cancer-diaphragm---secondary.py
+inputModule132:
+  class: File
+  path: python/ccu002_01-cancer-squamocolumnar---secondary.py
+inputModule133:
+  class: File
+  path: python/ccu002_01-cancer-lowerinner---secondary.py
+inputModule134:
+  class: File
+  path: python/ccu002_01-cancer-mesentery---secondary.py
+inputModule135:
+  class: File
+  path: python/ccu002_01-cancer-talus---secondary.py
+inputModule136:
+  class: File
+  path: python/ccu002_01-cancer-chest---secondary.py
+inputModule137:
+  class: File
+  path: python/ccu002_01-cancer-maxilla---secondary.py
+inputModule138:
+  class: File
+  path: python/ccu002_01-cancer-pubis---secondary.py
+inputModule139:
+  class: File
+  path: python/ccu002_01-cancer-pleura---secondary.py
+inputModule140:
+  class: File
+  path: python/marginal-ccu002_01-cancer---secondary.py
+inputModule141:
+  class: File
+  path: python/ccu002_01-cancer-linguae---secondary.py
+inputModule142:
+  class: File
+  path: python/choroid-ccu002_01-cancer---secondary.py
+inputModule143:
+  class: File
+  path: python/ccu002_01-cancer-majora---secondary.py
+inputModule144:
+  class: File
+  path: python/ccu002_01-cancer-greater---secondary.py
+inputModule145:
+  class: File
+  path: python/ccu002_01-cancer-hypopharynx---secondary.py
+inputModule146:
+  class: File
+  path: python/ccu002_01-cancer-plastica---secondary.py
+inputModule147:
+  class: File
+  path: python/ccu002_01-cancer-calcaneum---secondary.py
+inputModule148:
+  class: File
+  path: python/lymphoproliferative-ccu002_01-cancer---secondary.py
+inputModule149:
+  class: File
+  path: python/ccu002_01-cancer-delivery---secondary.py
+inputModule150:
+  class: File
+  path: python/ccu002_01-cancer-lambda---secondary.py
+inputModule151:
+  class: File
+  path: python/ccu002_01-cancer-carcinomatosis---secondary.py
+inputModule152:
+  class: File
+  path: python/ccu002_01-cancer-astrocytoma---secondary.py
+inputModule153:
+  class: File
+  path: python/glossoepiglottic-ccu002_01-cancer---secondary.py
+inputModule154:
+  class: File
+  path: python/lentiginous-ccu002_01-cancer---secondary.py
+inputModule155:
+  class: File
+  path: python/presacral-ccu002_01-cancer---secondary.py
+inputModule156:
+  class: File
+  path: python/ccu002_01-cancer-msweat---secondary.py
+inputModule157:
+  class: File
+  path: python/trigone-ccu002_01-cancer---secondary.py
+inputModule158:
+  class: File
+  path: python/ccu002_01-cancer-thigh---secondary.py
+inputModule159:
+  class: File
+  path: python/ccu002_01-cancer-upperinner---secondary.py
+inputModule160:
+  class: File
+  path: python/ccu002_01-cancer-glioma---secondary.py
+inputModule161:
+  class: File
+  path: python/ccu002_01-cancer-hippocampu---secondary.py
+inputModule162:
+  class: File
+  path: python/light-ccu002_01-cancer---secondary.py
+inputModule163:
+  class: File
+  path: python/ccu002_01-cancer-phyllode---secondary.py
+inputModule164:
+  class: File
+  path: python/ccu002_01-cancer-fundu---secondary.py
+inputModule165:
+  class: File
+  path: python/ccu002_01-cancer-sheath---secondary.py
+inputModule166:
+  class: File
+  path: python/ccu002_01-cancer-tcell---secondary.py
+inputModule167:
+  class: File
+  path: python/ccu002_01-cancer-larynx---secondary.py
+inputModule168:
+  class: File
+  path: python/ccu002_01-cancer-fossa---secondary.py
+inputModule169:
+  class: File
+  path: python/ccu002_01-cancer-penis---secondary.py
+inputModule170:
+  class: File
+  path: python/ccu002_01-cancer-neuroma---secondary.py
+inputModule171:
+  class: File
+  path: python/ccu002_01-cancer-mcarcinosarcoma---secondary.py
+inputModule172:
+  class: File
+  path: python/ccu002_01-cancer-waldenstrom---secondary.py
+inputModule173:
+  class: File
+  path: python/gastric-ccu002_01-cancer---secondary.py
+inputModule174:
+  class: File
+  path: python/ccu002_01-cancer-ligament---secondary.py
+inputModule175:
+  class: File
+  path: python/ccu002_01-cancer-programme---secondary.py
+inputModule176:
+  class: File
+  path: python/ccu002_01-cancer-stewarttreves---secondary.py
+inputModule177:
+  class: File
+  path: python/intestinal-ccu002_01-cancer---secondary.py
+inputModule178:
+  class: File
+  path: python/ccu002_01-cancer-vulva---secondary.py
+inputModule179:
+  class: File
+  path: python/ccu002_01-cancer-spleen---secondary.py
+inputModule180:
+  class: File
+  path: python/ccu002_01-cancer-lesser---secondary.py
+inputModule181:
+  class: File
+  path: python/ccu002_01-cancer-peduncle---secondary.py
+inputModule182:
+  class: File
+  path: python/ccu002_01-cancer-somatostatinoma---secondary.py
+inputModule183:
+  class: File
+  path: python/ccu002_01-cancer-salivary---secondary.py
+inputModule184:
+  class: File
+  path: python/mserous-ccu002_01-cancer---secondary.py
+inputModule185:
+  class: File
+  path: python/ccu002_01-cancer-meatus---secondary.py
+inputModule186:
+  class: File
+  path: python/ccu002_01-cancer-mmixed---secondary.py
+inputModule187:
+  class: File
+  path: python/ccu002_01-cancer-lunate---secondary.py
+inputModule188:
+  class: File
+  path: python/ccu002_01-cancer-madult---secondary.py
+inputModule189:
+  class: File
+  path: python/ccu002_01-cancer-minora---secondary.py
+inputModule190:
+  class: File
+  path: python/mgranular-ccu002_01-cancer---secondary.py
+inputModule191:
+  class: File
+  path: python/pharyngeal-ccu002_01-cancer---secondary.py
+inputModule192:
+  class: File
+  path: python/different-ccu002_01-cancer---secondary.py
+inputModule193:
+  class: File
+  path: python/ccu002_01-cancer-subglotti---secondary.py
+inputModule194:
+  class: File
+  path: python/subcutaneous-ccu002_01-cancer---secondary.py
+inputModule195:
+  class: File
+  path: python/trophoblastic-ccu002_01-cancer---secondary.py
+inputModule196:
+  class: File
+  path: python/mucoepidermoid-ccu002_01-cancer---secondary.py
+inputModule197:
+  class: File
+  path: python/ccu002_01-cancer-prostatectomy---secondary.py
+inputModule198:
+  class: File
+  path: python/spermatic-ccu002_01-cancer---secondary.py
+inputModule199:
+  class: File
+  path: python/ccu002_01-cancer-sideroblast---secondary.py
+inputModule200:
+  class: File
+  path: python/ccu002_01-cancer-hilus---secondary.py
+inputModule201:
+  class: File
+  path: python/sublingual-ccu002_01-cancer---secondary.py
+inputModule202:
+  class: File
+  path: python/ccu002_01-cancer-spread---secondary.py
+inputModule203:
+  class: File
+  path: python/ccu002_01-cancer-combined---secondary.py
+inputModule204:
+  class: File
+  path: python/ccu002_01-cancer-richter's---secondary.py
+inputModule205:
+  class: File
+  path: python/ccu002_01-cancer-palate---secondary.py
+inputModule206:
+  class: File
+  path: python/ccu002_01-cancer-madenoma---secondary.py
+inputModule207:
+  class: File
+  path: python/ccu002_01-cancer-polyp---secondary.py
+inputModule208:
+  class: File
+  path: python/ccu002_01-cancer-chloroma---secondary.py
+inputModule209:
+  class: File
+  path: python/ccu002_01-cancer-tumor---secondary.py
+inputModule210:
+  class: File
+  path: python/ccu002_01-cancer-commissure---secondary.py
+inputModule211:
+  class: File
+  path: python/ccu002_01-cancer-nonsmall---secondary.py
+inputModule212:
+  class: File
+  path: python/ccu002_01-cancer-vesicle---secondary.py
+inputModule213:
+  class: File
+  path: python/ccu002_01-cancer-remission---secondary.py
+inputModule214:
+  class: File
+  path: python/ccu002_01-cancer-reticulosarcoma---secondary.py
+inputModule215:
+  class: File
+  path: python/ccu002_01-cancer-hemangiopericytoma---secondary.py
+inputModule216:
+  class: File
+  path: python/lateral-ccu002_01-cancer---secondary.py
+inputModule217:
+  class: File
+  path: python/ccu002_01-cancer-shoulder---secondary.py
+inputModule218:
+  class: File
+  path: python/ccu002_01-cancer-antrum---secondary.py
+inputModule219:
+  class: File
+  path: python/ccu002_01-cancer-midline---secondary.py
+inputModule220:
+  class: File
+  path: python/ccu002_01-cancer-ciliary---secondary.py
+inputModule221:
+  class: File
+  path: python/ccu002_01-cancer-protuberan---secondary.py
+inputModule222:
+  class: File
+  path: python/ethmoid-ccu002_01-cancer---secondary.py
+inputModule223:
+  class: File
+  path: python/ccu002_01-cancer-septum---secondary.py
+inputModule224:
+  class: File
+  path: python/ccu002_01-cancer-myelosclerosis---secondary.py
+inputModule225:
+  class: File
+  path: python/ccu002_01-cancer-process---secondary.py
+inputModule226:
+  class: File
+  path: python/ccu002_01-cancer-multiforme---secondary.py
+inputModule227:
+  class: File
+  path: python/medial-ccu002_01-cancer---secondary.py
+inputModule228:
+  class: File
+  path: python/ccu002_01-cancer-vault---secondary.py
+inputModule229:
+  class: File
+  path: python/ccu002_01-cancer-philadelphia---secondary.py
+inputModule230:
+  class: File
+  path: python/intravenous-ccu002_01-cancer---secondary.py
+inputModule231:
+  class: File
+  path: python/ccu002_01-cancer-sezary---secondary.py
+inputModule232:
+  class: File
+  path: python/ccu002_01-cancer-olfactory---secondary.py
+inputModule233:
+  class: File
+  path: python/arachnoid-ccu002_01-cancer---secondary.py
+inputModule234:
+  class: File
+  path: python/ccu002_01-cancer-tzone---secondary.py
+inputModule235:
+  class: File
+  path: python/bronchopulmonary-ccu002_01-cancer---secondary.py
+inputModule236:
+  class: File
+  path: python/ccu002_01-cancer-invitation---secondary.py
+inputModule237:
+  class: File
+  path: python/histiocytic-ccu002_01-cancer---secondary.py
+inputModule238:
+  class: File
+  path: python/ccu002_01-cancer-supraglotti---secondary.py
+inputModule239:
+  class: File
+  path: python/peritoneal-ccu002_01-cancer---secondary.py
+inputModule240:
+  class: File
+  path: python/ccu002_01-cancer-vallecula---secondary.py
+inputModule241:
+  class: File
+  path: python/ccu002_01-cancer-sinus---secondary.py
+inputModule242:
+  class: File
+  path: python/ccu002_01-cancer-retina---secondary.py
+inputModule243:
+  class: File
+  path: python/juvenile-ccu002_01-cancer---secondary.py
+inputModule244:
+  class: File
+  path: python/ccu002_01-cancer-hormone---secondary.py
+inputModule245:
+  class: File
+  path: python/pelvic-ccu002_01-cancer---secondary.py
+inputModule246:
+  class: File
+  path: python/ccu002_01-cancer-bones---secondary.py
+inputModule247:
+  class: File
+  path: python/perianal-ccu002_01-cancer---secondary.py
+inputModule248:
+  class: File
+  path: python/ccu002_01-cancer-uvula---secondary.py
+inputModule249:
+  class: File
+  path: python/ccu002_01-cancer-hypothalamu---secondary.py
+inputModule250:
+  class: File
+  path: python/ccu002_01-cancer-uterus---secondary.py
+inputModule251:
+  class: File
+  path: python/pineal-ccu002_01-cancer---secondary.py
+inputModule252:
+  class: File
+  path: python/ccu002_01-cancer-breast---secondary.py
+inputModule253:
+  class: File
+  path: python/sphenoid-ccu002_01-cancer---secondary.py
+inputModule254:
+  class: File
+  path: python/submandibular-ccu002_01-cancer---secondary.py
+inputModule255:
+  class: File
+  path: python/supraclavicular-ccu002_01-cancer---secondary.py
+inputModule256:
+  class: File
+  path: python/ccu002_01-cancer-disseminated---secondary.py
+inputModule257:
+  class: File
+  path: python/ccu002_01-cancer-vaquez's---secondary.py
+inputModule258:
+  class: File
+  path: python/ccu002_01-cancer-conjunctiva---secondary.py
+inputModule259:
+  class: File
+  path: python/ccu002_01-cancer-fibula---secondary.py
+inputModule260:
+  class: File
+  path: python/junctional-ccu002_01-cancer---secondary.py
+inputModule261:
+  class: File
+  path: python/ccu002_01-cancer-parenchyma---secondary.py
+inputModule262:
+  class: File
+  path: python/ccu002_01-cancer-bowel---secondary.py
+inputModule263:
+  class: File
+  path: python/ccu002_01-cancer-jugulare---secondary.py
+inputModule264:
+  class: File
+  path: python/digestive-ccu002_01-cancer---secondary.py
+inputModule265:
+  class: File
+  path: python/ccu002_01-cancer-urachu---secondary.py
+inputModule266:
+  class: File
+  path: python/ccu002_01-cancer-scrotum---secondary.py
+inputModule267:
+  class: File
+  path: python/ccu002_01-cancer-myelofibrosis---secondary.py
+inputModule268:
+  class: File
+  path: python/paraurethral-ccu002_01-cancer---secondary.py
+inputModule269:
+  class: File
+  path: python/ccu002_01-cancer-pigmented---secondary.py
+inputModule270:
+  class: File
+  path: python/ccu002_01-cancer-vestibule---secondary.py
+inputModule271:
+  class: File
+  path: python/ccu002_01-cancer-epididymi---secondary.py
+inputModule272:
+  class: File
+  path: python/ccu002_01-cancer-clitoris---secondary.py
+inputModule273:
+  class: File
+  path: python/sigmoid-ccu002_01-cancer---secondary.py
+inputModule274:
+  class: File
+  path: python/ccu002_01-cancer-retroperitoneum---secondary.py
+inputModule275:
+  class: File
+  path: python/ccu002_01-cancer-meninge---secondary.py
+inputModule276:
+  class: File
+  path: python/uncertain-ccu002_01-cancer---secondary.py
+inputModule277:
+  class: File
+  path: python/ccu002_01-cancer-thumb---secondary.py
+inputModule278:
+  class: File
+  path: python/cricoid-ccu002_01-cancer---secondary.py
+inputModule279:
+  class: File
+  path: python/ccu002_01-cancer-mseminoma---secondary.py
+inputModule280:
+  class: File
+  path: python/ccu002_01-cancer-adnexal---secondary.py
+inputModule281:
+  class: File
+  path: python/ccu002_01-cancer-marrow---secondary.py
+inputModule282:
+  class: File
+  path: python/ccu002_01-cancer-perineum---secondary.py
+inputModule283:
+  class: File
+  path: python/ccu002_01-cancer-fracture---secondary.py
+inputModule284:
+  class: File
+  path: python/ccu002_01-cancer-humerus---secondary.py
+inputModule285:
+  class: File
+  path: python/ccu002_01-cancer-refractory---secondary.py
+inputModule286:
+  class: File
+  path: python/ccu002_01-cancer-illdefined---secondary.py
+inputModule287:
+  class: File
+  path: python/ccu002_01-cancer-crisis---secondary.py
+inputModule288:
+  class: File
+  path: python/haemopoietic-ccu002_01-cancer---secondary.py
+inputModule289:
+  class: File
+  path: python/ccu002_01-cancer-arising---secondary.py
+inputModule290:
+  class: File
+  path: python/tympanic-ccu002_01-cancer---secondary.py
+inputModule291:
+  class: File
+  path: python/ccu002_01-cancer-radius---secondary.py
+inputModule292:
+  class: File
+  path: python/ccu002_01-cancer-mglioma---secondary.py
+inputModule293:
+  class: File
+  path: python/solitary-ccu002_01-cancer---secondary.py
+inputModule294:
+  class: File
+  path: python/ccu002_01-cancer-joint---secondary.py
+inputModule295:
+  class: File
+  path: python/ccu002_01-cancer-groin---secondary.py
+inputModule296:
+  class: File
+  path: python/costal-ccu002_01-cancer---secondary.py
+inputModule297:
+  class: File
+  path: python/invasive-ccu002_01-cancer---secondary.py
+inputModule298:
+  class: File
+  path: python/ccu002_01-cancer-hepatoblastoma---secondary.py
+inputModule299:
+  class: File
+  path: python/ccu002_01-cancer-frenulum---secondary.py
+inputModule300:
+  class: File
+  path: python/osseous-ccu002_01-cancer---secondary.py
+inputModule301:
+  class: File
+  path: python/ccu002_01-cancer-ileum---secondary.py
+inputModule302:
+  class: File
+  path: python/multiple-ccu002_01-cancer---secondary.py
+inputModule303:
+  class: File
+  path: python/cloacogenic-ccu002_01-cancer---secondary.py
+inputModule304:
+  class: File
+  path: python/angioimmunoblastic-ccu002_01-cancer---secondary.py
+inputModule305:
+  class: File
+  path: python/ccu002_01-cancer-scalp---secondary.py
+inputModule306:
+  class: File
+  path: python/ccu002_01-cancer-temple---secondary.py
+inputModule307:
+  class: File
+  path: python/labial-ccu002_01-cancer---secondary.py
+inputModule308:
+  class: File
+  path: python/gestational-ccu002_01-cancer---secondary.py
+inputModule309:
+  class: File
+  path: python/ccu002_01-cancer-meningioma---secondary.py
+inputModule310:
+  class: File
+  path: python/retromolar-ccu002_01-cancer---secondary.py
+inputModule311:
+  class: File
+  path: python/ccu002_01-cancer-cerebellum---secondary.py
+inputModule312:
+  class: File
+  path: python/fibrous-ccu002_01-cancer---secondary.py
+inputModule313:
+  class: File
+  path: python/ccu002_01-cancer-parametrium---secondary.py
+inputModule314:
+  class: File
+  path: python/lymphoplasmacytic-ccu002_01-cancer---secondary.py
+inputModule315:
+  class: File
+  path: python/neutrophilic-ccu002_01-cancer---secondary.py
+inputModule316:
+  class: File
+  path: python/zygomatic-ccu002_01-cancer---secondary.py
+inputModule317:
+  class: File
+  path: python/buccal-ccu002_01-cancer---secondary.py
+inputModule318:
+  class: File
+  path: python/ccu002_01-cancer-abdoman---secondary.py
+inputModule319:
+  class: File
+  path: python/metastatic-ccu002_01-cancer---secondary.py
+inputModule320:
+  class: File
+  path: python/ccu002_01-cancer-mosteosarcoma---secondary.py
+inputModule321:
+  class: File
+  path: python/ccu002_01-cancer-thymu---secondary.py
+inputModule322:
+  class: File
+  path: python/ccu002_01-cancer-muscle---secondary.py
+inputModule323:
+  class: File
+  path: python/ccu002_01-cancer-corpus---secondary.py
+inputModule324:
+  class: File
+  path: python/hepatic-ccu002_01-cancer---secondary.py
+inputModule325:
+  class: File
+  path: python/atypical-ccu002_01-cancer---secondary.py
+inputModule326:
+  class: File
+  path: python/ccu002_01-cancer-callosum---secondary.py
+inputModule327:
+  class: File
+  path: python/ccu002_01-cancer-handschuller-christian---secondary.py
+inputModule328:
+  class: File
+  path: python/ccu002_01-cancer-mhodgkin---secondary.py
+inputModule329:
+  class: File
+  path: python/ccu002_01-cancer-plasma---secondary.py
+inputModule330:
+  class: File
+  path: python/perinephric-ccu002_01-cancer---secondary.py
+inputModule331:
+  class: File
+  path: python/abdominal-ccu002_01-cancer---secondary.py
+inputModule332:
+  class: File
+  path: python/ccu002_01-cancer-changes---secondary.py
+inputModule333:
+  class: File
+  path: python/ccu002_01-cancer-equina---secondary.py
+inputModule334:
+  class: File
+  path: python/ccu002_01-cancer-carina---secondary.py
+inputModule335:
+  class: File
+  path: python/ccu002_01-cancer-adamantinoma---secondary.py
+inputModule336:
+  class: File
+  path: python/arytenoid-ccu002_01-cancer---secondary.py
+inputModule337:
+  class: File
+  path: python/scaphoid-ccu002_01-cancer---secondary.py
+inputModule338:
+  class: File
+  path: python/ccu002_01-cancer-flank---secondary.py
+inputModule339:
+  class: File
+  path: python/ccu002_01-cancer-phaeochromocytoma---secondary.py
+inputModule340:
+  class: File
+  path: python/ccu002_01-cancer-appendix---secondary.py
+inputModule341:
+  class: File
+  path: python/ccu002_01-cancer-diverticulum---secondary.py
+inputModule342:
+  class: File
+  path: python/ccu002_01-cancer-surface---secondary.py
+inputModule343:
+  class: File
+  path: python/proper-ccu002_01-cancer---secondary.py
+inputModule344:
+  class: File
+  path: python/ccu002_01-cancer-descending---secondary.py
+inputModule345:
+  class: File
+  path: python/ccu002_01-cancer-chondrosarcoma---secondary.py
+inputModule346:
+  class: File
+  path: python/ccu002_01-cancer-cornea---secondary.py
+inputModule347:
+  class: File
+  path: python/mparathyroid-ccu002_01-cancer---secondary.py
+inputModule348:
+  class: File
+  path: python/granular-ccu002_01-cancer---secondary.py
+inputModule349:
+  class: File
+  path: python/vocal-ccu002_01-cancer---secondary.py
+inputModule350:
+  class: File
+  path: python/ccu002_01-cancer-transverse---secondary.py
+inputModule351:
+  class: File
+  path: python/popliteal-ccu002_01-cancer---secondary.py
+inputModule352:
+  class: File
+  path: python/villous-ccu002_01-cancer---secondary.py
+inputModule353:
+  class: File
+  path: python/epithelial-ccu002_01-cancer---secondary.py
+inputModule354:
+  class: File
+  path: python/mmyxoid-ccu002_01-cancer---secondary.py
+inputModule355:
+  class: File
+  path: python/ccu002_01-cancer-caecum---secondary.py
+inputModule356:
+  class: File
+  path: python/fallopian-ccu002_01-cancer---secondary.py
+inputModule357:
+  class: File
+  path: python/ccu002_01-cancer-turbinate---secondary.py
+inputModule358:
+  class: File
+  path: python/ccu002_01-cancer-vater---secondary.py
+inputModule359:
+  class: File
+  path: python/optic-ccu002_01-cancer---secondary.py
+inputModule360:
+  class: File
+  path: python/monocytoid-ccu002_01-cancer---secondary.py
+inputModule361:
+  class: File
+  path: python/ccu002_01-cancer-endocardium---secondary.py
+inputModule362:
+  class: File
+  path: python/ccu002_01-cancer-auricle---secondary.py
+inputModule363:
+  class: File
+  path: python/ccu002_01-cancer-ankle---secondary.py
+inputModule364:
+  class: File
+  path: python/ccu002_01-cancer-phase---secondary.py
+inputModule365:
+  class: File
+  path: python/ccu002_01-cancer-heart---secondary.py
+inputModule366:
+  class: File
+  path: python/ccu002_01-cancer-trunk---secondary.py
+inputModule367:
+  class: File
+  path: python/ccu002_01-cancer-vomer---secondary.py
+inputModule368:
+  class: File
+  path: python/ccu002_01-cancer-quality---secondary.py
+inputModule369:
+  class: File
+  path: python/ccu002_01-cancer-screening---secondary.py
+inputModule370:
+  class: File
+  path: python/ccu002_01-cancer-plexu---secondary.py
+inputModule371:
+  class: File
+  path: python/eyelid-ccu002_01-cancer---secondary.py
+inputModule372:
+  class: File
+  path: python/parenteral-ccu002_01-cancer---secondary.py
+inputModule373:
+  class: File
+  path: python/ccu002_01-cancer-tarsus---secondary.py
+inputModule374:
+  class: File
+  path: python/ccu002_01-cancer-pyriform---secondary.py
+inputModule375:
+  class: File
+  path: python/ccu002_01-cancer-umbilicu---secondary.py
+inputModule376:
+  class: File
+  path: python/immunoproliferative-ccu002_01-cancer---secondary.py
+inputModule377:
+  class: File
+  path: python/ccu002_01-cancer-ascite---secondary.py
+inputModule378:
+  class: File
+  path: python/malar-ccu002_01-cancer---secondary.py
+inputModule379:
+  class: File
+  path: python/ccu002_01-cancer-ilium---secondary.py
+inputModule380:
+  class: File
+  path: python/cranial-ccu002_01-cancer---secondary.py
+inputModule381:
+  class: File
+  path: python/ccu002_01-cancer-anaemia---secondary.py
+inputModule382:
+  class: File
+  path: python/radical-ccu002_01-cancer---secondary.py
+inputModule383:
+  class: File
+  path: python/ccu002_01-cancer-gleason---secondary.py
+inputModule384:
+  class: File
+  path: python/ccu002_01-cancer-track---secondary.py
+inputModule385:
+  class: File
+  path: python/ccu002_01-cancer-sarcoma---secondary.py
+inputModule386:
+  class: File
+  path: python/ccu002_01-cancer-mmalig---secondary.py
+inputModule387:
+  class: File
+  path: python/ccu002_01-cancer-madenosarcoma---secondary.py
+inputModule388:
+  class: File
+  path: python/ccu002_01-cancer-mnaevi---secondary.py
+inputModule389:
+  class: File
+  path: python/ccu002_01-cancer-bronchu---secondary.py
+inputModule390:
+  class: File
+  path: python/msuperficial-ccu002_01-cancer---secondary.py
+inputModule391:
+  class: File
+  path: python/moxyphilic-ccu002_01-cancer---secondary.py
+inputModule392:
+  class: File
+  path: python/cerebral-ccu002_01-cancer---secondary.py
+inputModule393:
+  class: File
+  path: python/ccu002_01-cancer-mcarcinoma---secondary.py
+inputModule394:
+  class: File
+  path: python/ccu002_01-cancer-treatment---secondary.py
+inputModule395:
+  class: File
+  path: python/referral-ccu002_01-cancer---secondary.py
+inputModule396:
+  class: File
+  path: python/ccu002_01-cancer-eyebrow---secondary.py
+inputModule397:
+  class: File
+  path: python/ccu002_01-cancer-overlap---secondary.py
+inputModule398:
+  class: File
+  path: python/ccu002_01-cancer-mapocrine---secondary.py
+inputModule399:
+  class: File
+  path: python/ccu002_01-cancer-canthu---secondary.py
+inputModule400:
+  class: File
+  path: python/faucial-ccu002_01-cancer---secondary.py
+inputModule401:
+  class: File
+  path: python/ccu002_01-cancer-suspected---secondary.py
+inputModule402:
+  class: File
+  path: python/ccu002_01-cancer-excision---secondary.py
+inputModule403:
+  class: File
+  path: python/mfollicular-ccu002_01-cancer---secondary.py
+inputModule404:
+  class: File
+  path: python/ccu002_01-cancer-metastasis---secondary.py
+inputModule405:
+  class: File
+  path: python/leukemic-ccu002_01-cancer---secondary.py
+inputModule406:
+  class: File
+  path: python/mchronic-ccu002_01-cancer---secondary.py
+inputModule407:
+  class: File
+  path: python/ccu002_01-cancer-macute---secondary.py
+inputModule408:
+  class: File
+  path: python/external-ccu002_01-cancer---secondary.py
+inputModule409:
+  class: File
+  path: python/ccu002_01-cancer-cholangiocarcinoma---secondary.py
+inputModule410:
+  class: File
+  path: python/ccu002_01-cancer-carcinoma---secondary.py
+inputModule411:
+  class: File
+  path: python/ccu002_01-cancer-fusiform---secondary.py
+inputModule412:
+  class: File
+  path: python/biphasic-ccu002_01-cancer---secondary.py
+inputModule413:
+  class: File
+  path: python/cortical-ccu002_01-cancer---secondary.py
+inputModule414:
+  class: File
+  path: python/ccu002_01-cancer-oblongata---secondary.py
+inputModule415:
+  class: File
+  path: python/mtubular-ccu002_01-cancer---secondary.py
+inputModule416:
+  class: File
+  path: python/ccu002_01-cancer-mgastrinoma---secondary.py
+inputModule417:
+  class: File
+  path: python/ccu002_01-cancer-mpaget---secondary.py
+inputModule418:
+  class: File
+  path: python/ccu002_01-cancer-appendage---secondary.py
+inputModule419:
+  class: File
+  path: python/ccu002_01-cancer-nonkeratinising---secondary.py
+inputModule420:
+  class: File
+  path: python/lymphoepithelioid-ccu002_01-cancer---secondary.py
+inputModule421:
+  class: File
+  path: python/primary-ccu002_01-cancer---secondary.py
+inputModule422:
+  class: File
+  path: python/ccu002_01-cancer-macroglobulinaemia---secondary.py
+inputModule423:
+  class: File
+  path: python/ccu002_01-cancer-mleukaemia---secondary.py
+inputModule424:
+  class: File
+  path: python/ccu002_01-cancer-cheek---secondary.py
+inputModule425:
+  class: File
+  path: python/myeloproliferative-ccu002_01-cancer---secondary.py
+inputModule426:
+  class: File
+  path: python/personal-ccu002_01-cancer---secondary.py
+inputModule427:
+  class: File
+  path: python/ccu002_01-cancer-mmisc---secondary.py
+inputModule428:
+  class: File
+  path: python/ccu002_01-cancer-melanoma---secondary.py
+inputModule429:
+  class: File
+  path: python/gynaecological-ccu002_01-cancer---secondary.py
+inputModule430:
+  class: File
+  path: python/ccu002_01-cancer-cancers---secondary.py
+inputModule431:
+  class: File
+  path: python/nodular-ccu002_01-cancer---secondary.py
+inputModule432:
+  class: File
+  path: python/ccu002_01-cancer-hypernephroma---secondary.py
+inputModule433:
+  class: File
+  path: python/ccu002_01-cancer-lymphoma---secondary.py
+inputModule434:
+  class: File
+  path: python/thoracic-ccu002_01-cancer---secondary.py
+inputModule435:
+  class: File
+  path: python/malveolar-ccu002_01-cancer---secondary.py
+inputModule436:
+  class: File
+  path: python/output-cases.py
